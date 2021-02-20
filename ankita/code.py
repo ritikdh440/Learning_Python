@@ -30,3 +30,4 @@ print(f)
 #OCTADECIMAL TYPE
 g=0O10
 print(g)
+print(type(g))
