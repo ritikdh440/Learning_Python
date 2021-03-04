@@ -70,6 +70,7 @@ for i in v: print(i)
 
 del dict1[3]
 print(dict1)
+print("SECTION 4 complete)
 
 
 
