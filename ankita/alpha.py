@@ -1,15 +1,3 @@
-print("Let's get started")
-#DATATYPES
-
-#NUMERIC TYPE
-x=20.4
-y=48.9
-z="ankita"
-print(x,y,z)
-
-#TYPE
-print(type(z))
-
 #COMPLEX TYPE
 d=3+5j
 print(d)
@@ -31,16 +19,6 @@ print(f)
 g=0O10
 print(g)
 print(type(g))
-
-print("Python")
-
-
-h=0X9
-print(h)
-
-
-
-
 
 
 
