@@ -1,4 +1,4 @@
-
+ 
 print("Let's get started")
 #DATATYPES
 
@@ -32,7 +32,13 @@ print(f)
 g=0O10
 print(g)
 print(type(g))
+print("Python")
 
+
+h=0X9
+print(h)
+
+=======
 
 print("Hello")
 e=8
@@ -71,8 +77,7 @@ for i in v: print(i)
 del dict1[3]
 print(dict1)
 print("SECTION 4 complete)
-
-
+ 
 
 
 
