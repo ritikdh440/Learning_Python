@@ -1,3 +1,4 @@
+ 
 print("Let's get started")
 #DATATYPES
 
@@ -31,14 +32,52 @@ print(f)
 g=0O10
 print(g)
 print(type(g))
-
 print("Python")
 
 
 h=0X9
 print(h)
 
+=======
 
+print("Hello")
+e=8
+print(e)
+f=0X8
+print(f)
+g=0O10
+print(g)
+h=0B1000
+print(h)
+
+s={20,30,40,234}
+print(type(s))
+lst=[20,30,40,234]
+"""print(type(lst))
+b= bytes(lst)
+print(type(b))"""
+b1=bytearray(lst)
+b1[2]=56
+print(b1)
+
+
+dict1={1:"anaya",2:"ankita",3:22 }
+print(dict1.items())
+
+
+k=dict1.keys()
+
+for i in k:print(i+1)
+
+v=dict1.values()
+for i in v: print(i)
+
+
+
+del dict1[3]
+print(dict1)
+print("SECTION 4 complete)
+ 
 
 
 

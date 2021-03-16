@@ -1,3 +1,5 @@
+# Try to be consistence 
+
 # Learning_Python
 Start From the Scratch
 
@@ -10,16 +12,3 @@ Start From the Scratch
 
 #keep learning together
 
-Through the topics:-
-1.Intro to python
-2.Comments
-3.Indentation
-4.Datatypes
-   a)None
-   b)Numeric
-   c)Sequences 
-   d)Sets 
-   e)Mapping
-5.a)Numeric Types
-  b)Complex Types
-  c)Binary
