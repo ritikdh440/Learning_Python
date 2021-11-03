@@ -10,6 +10,6 @@ def reverse(n):
         for j in range(0, i+1):
             print("* ", end="")
         print("\r")
-
-n = 10
-reverse(n)
+if __name_- == "__main__" :
+    n = int(input("Enter the value of n :"))
+    reverse(n)
