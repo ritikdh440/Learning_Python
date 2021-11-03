@@ -5,5 +5,5 @@ def pyramid(n):
             print("* ",end="")
         print("\r")
 if __name__ == "__main__":
-    n = 10
+    n = int(input("Enter the value for n : "))
     pyramid(n)
